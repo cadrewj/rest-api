@@ -1,0 +1,37 @@
+.title{
+  text-align: center;
+
+}
+#homepage{
+  background-color: aliceblue;
+  /* max-height: 100vh; */
+  max-width: 150vh;
+  /* align-items: center; */
+  padding: 10px 20px;
+  margin: 60px auto;
+  border-radius: 4px;
+  box-shadow: 1px 2px 3px rgba(0, 0,0, 2);
+  color: black;
+  /* display: flex; */
+  
+  
+}
+#ninjas{
+  background-color: coral;
+  min-height: 30vh;
+  color: blue;
+}
+.true{
+  color: green;
+}
+.false{
+  color: red;
+}
+body{
+  background-color: darkgrey;
+  margin: 10px 30px;
+  /* padding: 20px; */
+  /* text-align: center; */
+  align-items: center;
+  font-family: 'Courier New', Courier, monospace;
+}
